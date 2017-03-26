@@ -16,9 +16,11 @@ Os projetos podem ser editados em Illustrator e Corel Draw.
 
 ## O Evento em Castanhal
 - Local: Instituto Federal do Pará, Campus Castanhal
+- Endereço: Rodovia BR 316, Km 62, Castanhal-PA, Brasil
 - Dia: 1º de Abril de 2017 (Mundial)
 - Horário: das 08h00 às 18h00
 - Organização Geral: Prof. Ericson Sarmento
+- Blog do Evento: http://arduinodaycastanhal.esy.es/
 
 ## Screenshots
 <p align="center">

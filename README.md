@@ -29,3 +29,6 @@ Os projetos podem ser editados em Illustrator e Corel Draw.
   <img src="/exported-img/arduinoday-banner-mod3.jpg" width="350"/>
   <img src="/exported-img/arduinoday-banner-mod4.jpg" width="350"/>
 </p>
+<p align="center">
+  <img src="/exported-img/arduinoday-banner-patrocinadores.jpg" width="700"/>
+</p>

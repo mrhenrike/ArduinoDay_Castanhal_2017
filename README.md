@@ -19,3 +19,13 @@ Os projetos podem ser editados em Illustrator e Corel Draw.
 - Dia: 1º de Abril de 2017 (Mundial)
 - Horário: das 08h00 às 18h00
 - Organização Geral: Prof. Ericson Sarmento
+
+## Screenshots
+<p align="center">
+  <img src="/exported-img/arduinoday-banner-mod1.jpg" width="350"/>
+  <img src="/exported-img/arduinoday-banner-mod2.jpg" width="350"/>
+</p>
+<p align="center">
+  <img src="/exported-img/arduinoday-banner-mod3.jpg" width="350"/>
+  <img src="/exported-img/arduinoday-banner-mod4.jpg" width="350"/>
+</p>
